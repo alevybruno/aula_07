@@ -5,7 +5,7 @@
 .inline{
     padding: 30px;
     background: rgb(94,216,242);
-background: linear-gradient(135deg, rgba(94,216,242,1) 0%, rgba(0,85,182,1) 100%);
+    background: linear-gradient(135deg, rgba(94,216,242,1) 0%, rgba(0,85,182,1) 100%);
     width: 300px;
     height: 400px;
 }
@@ -52,13 +52,12 @@ input[type=submit]{
     background: rgb(255, 255, 255);
     width: 300px;
     height: 400px;
-    border-radius: 0 20px 20px 0;
 }
 .godfather{
     margin: 0 auto;
     display: flex;
     width: 720px;
-    box-shadow: 0 5px 10px rgb(124, 124, 124);
+    box-shadow: 0 0 10px rgb(212, 212, 212);
 }
 .bolinha{
     border-radius: 100px;
